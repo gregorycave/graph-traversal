@@ -1,6 +1,3 @@
-# graph_traversal.py
-# written by Gregory Cave on 25/11/2016
-# developed in the Python 3.1 programming environment
 
 def bfs(graph, Vertex):
     queue=[]
