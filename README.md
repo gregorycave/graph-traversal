@@ -1,2 +1,2 @@
 # graph-traversal
-A collection of various examples of graph traversal algorithms
+A collection of graph traversal algorithms built using the Python programming language
